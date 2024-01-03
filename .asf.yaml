@@ -30,7 +30,7 @@ github:
     # Disable merge button
     merge: false
     # Disable rebase button
-    rebase: false
+    rebase: true
   protected_branches:
     master: {}
     develop:
